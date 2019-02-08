@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+void big2()
 {
 	clrscr();
 	int a, b, big;
