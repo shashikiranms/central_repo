@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
  
-int main()
+void rev()
 {
    char arr[100];
  
@@ -11,6 +11,4 @@ int main()
    strrev(arr);
  
    printf("Reverse of the string is \n%s\n", arr);
- 
-   return 0;
 }
