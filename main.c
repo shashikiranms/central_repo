@@ -3,5 +3,4 @@ void main()
 {
 big2();
 fact();
-rev();
 }
